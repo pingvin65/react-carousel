@@ -1,3 +1,3 @@
 # React - carousel
 
-The carousel is a very simple example made in React, Material-UI
+The carousel is a simple example made in React, Material-UI
